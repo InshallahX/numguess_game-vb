@@ -1,2 +1,2 @@
-# numguess_game-vb
-Educational purpose
+# Guess a Number game
+❗ Educational purpose
