@@ -1,5 +1,6 @@
 # Guess a Number game
 Game Debug ID: 01337
+
 Tutorial & Credit is no longer available.
 <h1>Preview</h1>
 
