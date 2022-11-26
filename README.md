@@ -1,7 +1,7 @@
 # Guess a Number game
+⚠️Tutorial & Credit is no longer available.
+⚠️For educational purpose only.
 Game Debug ID: 01337
-
-Tutorial & Credit is no longer available.
 <h1>Preview</h1>
 
 ![1](https://user-images.githubusercontent.com/59310592/204082919-6a663903-275a-4706-873c-ed4565c7f13f.png)
