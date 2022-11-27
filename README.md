@@ -1,8 +1,6 @@
 # Guess a Number game
 ⚠️Tutorial & Credit is no longer available.
 
-⚠️For educational purpose only.
-
 Game Debug ID: 01337
 <h1>Preview</h1>
 
